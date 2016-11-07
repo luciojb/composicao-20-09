@@ -19,8 +19,6 @@ public final class HomeTheater {
         som = new SistemaDeSom();
         video = new SistemaDeVideo();
     }
-
-    
     
     public SistemaDeSom getSom() {
         return som;
@@ -37,9 +35,6 @@ public final class HomeTheater {
     public void setVideo(SistemaDeVideo video) {
         this.video = video;
     }
-    
-    
-
 
     @Override
     public String toString() {

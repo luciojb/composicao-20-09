@@ -18,7 +18,7 @@ public final class ExecutaEqElet {
         ht.video.setModelo("Galaxy OMH");
         ht.video.setResolucao("UHD");
         ht.video.setTensao(110);
-        ht.video.setTipo("PICA");
+        ht.video.setTipo("4K");
         
         System.out.println(ht);     
         
